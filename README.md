@@ -1,5 +1,5 @@
-# emoji12 ( Disconinued )
-## Please use font changer module for future updates
+# emoji12 
+
 
 ![Android Emoji with Emoji 12.0]
 
