@@ -19,5 +19,5 @@ NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github
 
 ## Credit & Support
 
-* Copyright (C) 2019 
+* Copyright (C) 2020 
 * Any issue or pull request is welcomed.
