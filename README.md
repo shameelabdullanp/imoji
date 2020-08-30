@@ -1,7 +1,7 @@
 # Droid-Emoji 
 
 
-![Android Emoji with Emoji 12.0]
+![Android Emoji ]
 
 This repository is to development of the android emojis.
 
