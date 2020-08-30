@@ -7,7 +7,7 @@ This repository is to development of the android emojis.
 
 My goal is to upgrade any Android Phone to get Android emojis with New Emoji :D .
  
-NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github.com/shameelabdullanp/emoji12).
+NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github.com/shameelabdullanp/droid-Emoji).
 
 :D
 
