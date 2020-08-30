@@ -23,4 +23,5 @@ NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github
 * Any issue or pull request is welcomed.
 
 Change log:
- v 1.0.01 : Name Change from Emoji12 to Droid-Emoji
+V1.0.2020 : Emoji Unicode Version 12.0
+V1.1.2020 : Emoji Unicode Version 13.0
