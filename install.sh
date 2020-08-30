@@ -124,7 +124,7 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "        Magisk Android Emoji   "
-  ui_print "             Emoji 12.0        "
+  ui_print "        Emoji Unicode v13.0    "
   ui_print "             By Shameel        "
   ui_print "*******************************"
 }
@@ -136,7 +136,7 @@ on_install() {
   # Extend/change the logic to whatever you want
   ui_print "- Extracting module files"
   ui_prin  "_________________________"
-  unzip -o "$ZIPFILE" 'system/fonts/emoji12.ttf' -d $MODPATH >&2
+  unzip -o "$ZIPFILE" 'system/fonts/emoji.ttf' -d $MODPATH >&2
 
   ui_print "- Searching in fonts.xml"
   ui_print "________________________"
@@ -147,7 +147,7 @@ on_install() {
   do
     ui_print "- Copying fonts files to $i"
     ui_print "___________________________"
-    cp -f $MODPATH/system/fonts/emoji12.ttf $MODPATH/system/fonts/$i
+    cp -f $MODPATH/system/fonts/emoji.ttf $MODPATH/system/fonts/$i
   done
 }
 
