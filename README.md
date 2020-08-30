@@ -22,6 +22,7 @@ NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github
 * Copyright (C) 2020 
 * Any issue or pull request is welcomed.
 
-Changelog:
-*V1.0.2020 : Emoji Unicode Version 12.0
-*V1.1.2020 : Emoji Unicode Version 13.0
+## Changelog:
+
+* v1.0.2020 : Emoji Unicode Version 12.0 
+* v1.1.2020 : Emoji Unicode Version 13.0
