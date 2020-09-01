@@ -1,11 +1,11 @@
-# Droid-Emoji 
+# Imoji 
 
 
-![Android Emoji ]
+![Apple Emoji ]
 
-This repository is to development of the android emojis.
+This repository is to development of the Apple emojis.
 
-My goal is to upgrade any Android Phone to get Android emojis with New Emoji :D .
+My goal is to upgrade any Android Phone to get Apple emojis with New Emoji :D .
  
 NotoColorEmoji fonts are provided by [shameelabdullanp's project](https://github.com/shameelabdullanp/droid-Emoji).
 
