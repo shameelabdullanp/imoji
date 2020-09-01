@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "        Magisk Android Emoji   "
-  ui_print "        Emoji Unicode v13.0    "
+  ui_print "        Magisk Aplle Emoji   "
+  ui_print "        Emoji Unicode v12.0    "
   ui_print "             By Shameel        "
   ui_print "*******************************"
 }
