@@ -1,6 +1,6 @@
-id=droid-Emoji
-name=droid-Emoji
-version=v1.1 (August 30, 2020)
-versionCode=01012020
+id=Imoji
+name=Imoji
+version=v1.0 (september 02, 2020)
+versionCode=01002020
 author=Shameel Abdulla
-description=roid Emoji with Unicode Emoji 13.0 (unreleased)
+description=Apple Emoji with Unicode Emoji 12.0
