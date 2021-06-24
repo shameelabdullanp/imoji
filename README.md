@@ -1,7 +1,7 @@
 # Imoji 
 
 
-![Apple Emoji ]
+![iOS Emoji ]
 
 This repository is to development of the Apple emojis.
 
